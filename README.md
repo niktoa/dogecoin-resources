@@ -88,6 +88,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://doge.cryptoharvester.eu
 
 ### P2Pool nodes (hash rate shared by all nodes)
+- http://Asguard-Pool.eu:22550/
 - http://shitpost.asia/
 - http://doge.crypto49er.com/
 - http://doge-eu.crypto49er.com/
